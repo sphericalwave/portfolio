@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "resume"
-permalink: about
+permalink: resume
 ---
 
 <div class="d-flex align-items-center justify-content-between">
